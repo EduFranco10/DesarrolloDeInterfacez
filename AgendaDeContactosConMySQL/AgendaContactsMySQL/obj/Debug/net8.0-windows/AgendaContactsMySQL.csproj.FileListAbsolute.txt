@@ -1,0 +1,114 @@
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.exe
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.deps.json
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.runtimeconfig.json
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.pdb
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AddContact.resources
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.Form1.resources
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaCo.8B94D623.Up2Date
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\refint\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.pdb
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\ref\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.SearchContact.resources
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.UpdateContact.resources
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.DeleteContact.resources
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.Login.resources
+C:\Users\USUARIO\Documents\Aprendiendo\C#\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.Registro.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.exe
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.deps.json
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.runtimeconfig.json
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.pdb
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.AssemblyReference.cache
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.Properties.Resources.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AddContact.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.DeleteContact.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.Form1.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.Login.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.Registro.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.SearchContact.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.UpdateContact.resources
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.GenerateResource.cache
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AssemblyInfoInputs.cache
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AssemblyInfo.cs
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.CoreCompileInputs.cache
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaCo.8B94D623.Up2Date
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\refint\AgendaContactsMySQL.dll
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.pdb
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.genruntimeconfig.cache
+C:\Users\anach\Downloads\AgendaContactsMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\ref\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\refint\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.pdb
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.exe
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.deps.json
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.runtimeconfig.json
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\AgendaContactsMySQL.pdb
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AddContact.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.DeleteContact.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.Form1.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.Login.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.Registro.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.SearchContact.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.views.UpdateContact.resources
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaCo.8B94D623.Up2Date
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\AgendaContactsMySQL.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Linkia\Segundo\Interfacez\Nueva carpeta\AgendaDeContactosConMySQL\AgendaContactsMySQL\obj\Debug\net8.0-windows\ref\AgendaContactsMySQL.dll
