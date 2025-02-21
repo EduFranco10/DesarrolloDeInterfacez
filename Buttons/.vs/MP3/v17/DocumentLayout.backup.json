@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|c:\\users\\usuario\\documents\\linkia\\segundo\\interfacez\\segundo_trimestre\\tareas\\wsinterfacedevelopmentexercises\\buttons\\buttons\\controls\\pausebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\pausebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\nextbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\nextbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\previousbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\previousbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\quitbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\quitbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|c:\\users\\usuario\\documents\\linkia\\segundo\\interfacez\\segundo_trimestre\\tareas\\wsinterfacedevelopmentexercises\\buttons\\buttons\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\folderbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\folderbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\titlelbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\titlelbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\pausebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\pausebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\subtitlelbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\subtitlelbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\quitbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\quitbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\folderbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\folderbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CF4A8F-970D-494C-B83A-B3A431FEC3C3}|Buttons\\MP3.csproj|solutionrelative:buttons\\controls\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseBtn.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\PauseBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\PauseBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\PauseBtn.cs",
+              "RelativeToolTip": "Buttons\\Controls\\PauseBtn.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:14:54.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\Imagen.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\Imagen.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\Imagen.cs",
+              "RelativeToolTip": "Buttons\\Controls\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:16:47.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuitBtn.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\QuitBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\QuitBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\QuitBtn.cs",
+              "RelativeToolTip": "Buttons\\Controls\\QuitBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:16:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PreviousBtn.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\PreviousBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\PreviousBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\PreviousBtn.cs",
+              "RelativeToolTip": "Buttons\\Controls\\PreviousBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:15:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Form1.cs",
+              "RelativeDocumentMoniker": "Buttons\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Buttons\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:18:33.289Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NextBtn.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\NextBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\NextBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\NextBtn.cs*",
+              "RelativeToolTip": "Buttons\\Controls\\NextBtn.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:20:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Buttons\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Buttons\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:07:29.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FolderBtn.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\FolderBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\FolderBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\FolderBtn.cs",
+              "RelativeToolTip": "Buttons\\Controls\\FolderBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:11:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Buttons\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Buttons\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:36:32.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TitleLbl.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\TitleLbl.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\TitleLbl.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\TitleLbl.cs",
+              "RelativeToolTip": "Buttons\\Controls\\TitleLbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:17:10.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PauseBtn.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\PauseBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\PauseBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\PauseBtn.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Buttons\\Controls\\PauseBtn.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:27:50.943Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubtitleLbl.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\SubtitleLbl.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\SubtitleLbl.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\SubtitleLbl.cs",
+              "RelativeToolTip": "Buttons\\Controls\\SubtitleLbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:17:00.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\Bar.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\Bar.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\Bar.cs",
+              "RelativeToolTip": "Buttons\\Controls\\Bar.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:22:41.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuitBtn.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\QuitBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\QuitBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\QuitBtn.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Buttons\\Controls\\QuitBtn.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:15:53.329Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FolderBtn.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\FolderBtn.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\FolderBtn.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\FolderBtn.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Buttons\\Controls\\FolderBtn.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:39:28.693Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\Bar.cs",
+              "RelativeDocumentMoniker": "Buttons\\Controls\\Bar.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Linkia\\Segundo\\Interfacez\\SEGUNDO_TRIMESTRE\\TAREAS\\WsInterfaceDevelopmentExercises\\Buttons\\Buttons\\Controls\\Bar.cs [Design]",
+              "RelativeToolTip": "Buttons\\Controls\\Bar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:38:40.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

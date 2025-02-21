@@ -1,0 +1,12 @@
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\bin\Debug\Buttons.dll
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\bin\Debug\Buttons.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\obj\Debug\Buttons.csproj.AssemblyReference.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\obj\Debug\Buttons.dll
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\obj\Debug\Buttons.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\obj\Debug\Buttons.Form1.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\obj\Debug\Buttons.csproj.GenerateResource.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Buttons\Buttons\obj\Debug\Buttons.csproj.Up2Date
